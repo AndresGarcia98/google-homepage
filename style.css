@@ -1,0 +1,18 @@
+.Logo{
+    text-align: center;
+    margin-top: 150px;
+  }
+
+.Search{
+  text-align: center;
+  margin-top: 10px;
+}
+
+.ButtonSearch{
+  text-align: center;
+  margin-top: 5px;
+}
+.ExternalLinks{
+  text-align: right;
+  margin-right: 5px;
+}
